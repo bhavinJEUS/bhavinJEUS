@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhavinJEUS
-- 👀 I’m interested in working with database compony
+- 👀 I’m interested in working with database company
 - 🌱 I’m currently learning python and web dev.
 - 💞️ I’m looking to collaborate on database projects.
 - 📫 my email address is bhavintiwari959@gmail.com 
